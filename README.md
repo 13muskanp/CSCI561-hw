@@ -9,7 +9,3 @@ This repository contains the homework assignments for the course CSCI561: Founda
 - [Homework 3](./hw3/README.md)
 
 Please refer to the individual homework directories for more details on each assignment.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
