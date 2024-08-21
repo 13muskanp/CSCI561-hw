@@ -1,5 +1,3 @@
-### README
-
 #### Overview
 This project implements a graph-based pathfinding solution for navigating a terrain with elevation changes. The algorithms used include Breadth-First Search (BFS), Uniform Cost Search (UCS), and A* Search. The graph represents nodes with coordinates and edges with costs based on Euclidean distance.
 
