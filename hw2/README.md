@@ -1,5 +1,3 @@
-### README
-
 #### Overview
 This project implements a game board with pathfinding and move evaluation capabilities. The code includes definitions for the board and move structures, as well as global constants for board size and search depth.
 
