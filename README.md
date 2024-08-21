@@ -7,8 +7,6 @@ This repository contains the homework assignments for the course CSCI561: Founda
 - [Homework 1](./homework1/README.md): Description and code for Homework 1.
 - [Homework 2](./homework2/README.md): Description and code for Homework 2.
 - [Homework 3](./homework3/README.md): Description and code for Homework 3.
-- [Homework 4](./homework4/README.md): Description and code for Homework 4.
-- [Homework 5](./homework5/README.md): Description and code for Homework 5.
 
 Please refer to the individual homework directories for more details on each assignment.
 
