@@ -1,6 +1,6 @@
 # CSCI561-hw
 
-This repository contains the homework assignments for the course CSCI561: Foundations of Artificial Intelligence, taught by Prof. Laurent Itti.
+This repository contains the homework assignments for the course CSCI561: Foundations of Artificial Intelligence, taught by Prof. Laurent Itti for Spring 2024.
 
 ## Homeworks
 
